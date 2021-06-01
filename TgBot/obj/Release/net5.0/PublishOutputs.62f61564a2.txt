@@ -1,0 +1,8 @@
+E:\КПІ\ОП\Лаби\2\FootballAPI\TgBot\TgBot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\TgBot\Settings.job
+E:\КПІ\ОП\Лаби\2\FootballAPI\TgBot\TgBot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\TgBot\TgBot.exe
+E:\КПІ\ОП\Лаби\2\FootballAPI\TgBot\TgBot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\TgBot\TgBot.dll
+E:\КПІ\ОП\Лаби\2\FootballAPI\TgBot\TgBot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\TgBot\TgBot.deps.json
+E:\КПІ\ОП\Лаби\2\FootballAPI\TgBot\TgBot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\TgBot\TgBot.runtimeconfig.json
+E:\КПІ\ОП\Лаби\2\FootballAPI\TgBot\TgBot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\TgBot\TgBot.pdb
+E:\КПІ\ОП\Лаби\2\FootballAPI\TgBot\TgBot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\TgBot\Newtonsoft.Json.dll
+E:\КПІ\ОП\Лаби\2\FootballAPI\TgBot\TgBot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\TgBot\Telegram.Bot.dll

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="FootbaIIBot" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\КПІ\\ОП\\Лаби\\2\\FootballAPI\\TgBot\\TgBot\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
