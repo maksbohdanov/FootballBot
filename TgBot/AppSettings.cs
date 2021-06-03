@@ -11,7 +11,7 @@ namespace TgBot
     {
         public static string Url { get; set; } = "https://localhost:44343/";
         public static string Name { get; set; } = "Football Bot";
-        public static string Key { get; set; } = "1838145152:AAE7z6Ij2MA126ezGQTgOnby9TowR56_hWE";
+        public static string Key { get; set; } = "xxxxxxxxxxxxx";
 
 
         public static TelegramBotClient Configure(ref TelegramBotClient client)
